@@ -1,4 +1,4 @@
-![Header](https://github.com/RectangularArch/RectangularArch/blob/main/Assets/Header.jpg)
+![Header](https://github.com/RectangularArch/RectangularArch/tree/main/Assets)
 
 About me
 
