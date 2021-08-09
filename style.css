@@ -1,0 +1,26 @@
+.ex1
+{padding:10px;width:300px;height:40px;margin:0 auto;text-align:center;position:relative}
+
+h2{
+    z-index:4;
+    font-family: Consolas;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 40px;
+}
+.ex1 h2:first-letter {
+    color: #84719b;}
+.ex1 h2:after {content: "";
+position: absolute;
+background:rgb(81, 227, 213);
+height: 20px;
+width: 21px;
+transform:skewX(-20deg);
+-webkit-transform: skewX(-20deg);
+-o-transform: skewX(-20deg);
+-moz-transform: skewX(-20deg);
+top: 34%;
+left: 18.5%;
+z-index:-1 }
