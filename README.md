@@ -25,11 +25,10 @@
 
 
 <p align="center">
-    <a target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
-    <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"></a>
-    <a target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"></a>
-    <a target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white"></a>
+    <a target="_blank"><img alt="42" src="https://img.shields.io/badge/-42-000000?style=flat-square&logo=42&logoColor=white"></a>
+    <a target="_blank" href="https://github.com/RectangularArch"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a target="_blank" href="mailto:tolstopyatov.a.work@gmail.com?subject=Hello%20Andrey,%20from%20Github"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <a target="_blank" href="https://vk.com/rectarch"><img alt="VK" src="https://img.shields.io/badge/-VK-4680c2?style=flat-square&logo=VK&logoColor=white"></a>
 </p>
 
 ![Image alt](https://github.com/RectangularArch/RectangularArch/blob/main/Assets/Github_statistics.png)
