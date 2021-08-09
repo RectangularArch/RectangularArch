@@ -34,11 +34,10 @@
 ![Image alt](https://github.com/RectangularArch/RectangularArch/blob/main/Assets/Github_statistics.png)
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RectangularArch&show_icons=true&hide=issues&icon_color=981921&hide_border=true&title_color=981921&text_color=555&bg_color=e0dce7">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RectangularArch&show_icons=true&hide=issues&icon_color=981921&hide_border=true&title_color=981921&text_color=555&bg_color=e0dce7&border_radius=0&hide_title=true">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RectangularArch&hide=html,&hide_border=true&title_color=981921&text_color=555&bg_color=e0dce7"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RectangularArch&hide=html,&hide_border=true&title_color=981921&text_color=555&bg_color=e0dce7&border_radius=0&hide_title=true&card_width=495"
 </p>
 <!--
 ![Metrics](https://metrics.lecoq.io/RectangularArch?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
 -->
-
