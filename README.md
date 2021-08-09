@@ -2,8 +2,6 @@
 
 About me
 
-Last Youtube videos
-
 <h2 align="center" style="text-decoration: none;"><p style = "font-family: Consolas; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 17.6px; color: #84719b;">Languages & Tools</p></h2>
 <p align="center">
     <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=white"></a>
@@ -30,5 +28,4 @@ Last Youtube videos
     <a target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"></a>
     <a target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white"></a>
 </p>
-
-Follow me
+<h3 align="center"><p style = "font-family: Consolas; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 17.6px; color: #84719b;">Github statistics</p></h3>
