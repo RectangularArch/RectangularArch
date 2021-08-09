@@ -1,6 +1,6 @@
 ![Header](https://github.com/RectangularArch/RectangularArch/blob/main/Assets/Header.png)
 
-![Header](https://github.com/RectangularArch/RectangularArch/blob/main/Assets/Languages and tools.png)
+<img src=”https://github.com/RectangularArch/RectangularArch/blob/main/Assets/Languages and tools.png”>
 
 <p align="center">
     <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=white"></a>
