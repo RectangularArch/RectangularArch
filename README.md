@@ -23,7 +23,6 @@
 
 ![Image alt](https://github.com/RectangularArch/RectangularArch/blob/main/Assets/Reach_me_on.png)
 
-
 <p align="center">
     <a target="_blank" href="https://github.com/RectangularArch"><img alt="42" src="https://img.shields.io/badge/-42-000000?style=flat-square&logo=42&logoColor=white"></a>
     <a target="_blank" href="https://github.com/RectangularArch"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -31,12 +30,15 @@
     <a target="_blank" href="https://vk.com/rectarch"><img alt="VK" src="https://img.shields.io/badge/-VK-4680c2?style=flat-square&logo=VK&logoColor=white"></a>
 </p>
 
+<p align="center">
+    <img alt = "RectangularArch's 42 stats" src="https://badge42.herokuapp.com/api/stats/csilverb?privacyEmail=true">
+</p>
+
 ![Image alt](https://github.com/RectangularArch/RectangularArch/blob/main/Assets/Github_statistics.png)
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RectangularArch&show_icons=true&hide=issues&icon_color=981921&hide_border=true&title_color=981921&text_color=555&bg_color=e0dce7&border_radius=0&hide_title=true">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RectangularArch&hide=html,&hide_border=true&title_color=981921&text_color=555&bg_color=e0dce7&border_radius=0&hide_title=true&card_width=495"
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RectangularArch&show_icons=true&hide=issues&icon_color=981921&hide_border=true&title_color=981921&text_color=555&bg_color=e0dce7&hide_title=true">
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RectangularArch&hide=html,&hide_border=true&title_color=981921&text_color=555&bg_color=e0dce7&hide_title=true&card_width=495"
 </p>
 <!--
 ![Metrics](https://metrics.lecoq.io/RectangularArch?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
