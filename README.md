@@ -6,7 +6,7 @@
     <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=white"></a>
     <a target="_blank"><img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macOS&logoColor=white"></a>
     <a target="_blank"><img alt="Shell" src="https://img.shields.io/badge/-Shell-5391fe?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-e5461c?style=flat-square&logo=Git&logoColor=white"></a>
+    <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white"></a>
     <a target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=VisualStudioCode&logoColor=white"></a>
     <a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-5c2d91?style=flat-square&logo=Visual Studio&logoColor=white"></a>
