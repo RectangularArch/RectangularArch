@@ -17,8 +17,9 @@
     <a target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
     <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"></a>
-    <a target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"></a>
-    <a target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white"></a>
+    <a target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=C Sharp&logoColor=white"></a>
+<!--     <a target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"></a> -->
+<!--     <a target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white"></a> -->
 </p>
 
 ![Image alt](https://github.com/RectangularArch/RectangularArch/blob/main/Assets/Reach_me_on.png)
