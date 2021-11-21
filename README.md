@@ -10,6 +10,7 @@
     <a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white"></a>
     <a target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=VisualStudioCode&logoColor=white"></a>
     <a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-5c2d91?style=flat-square&logo=Visual Studio&logoColor=white"></a>
+    <a target="_blank"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"></a>
     <!--<a target="_blank"><img alt=".NET" src="https://img.shields.io/badge/-.NET-512bd4?style=flat-square&logo=.NET&logoColor=white"></a>-->
 </p>
 
